@@ -53,9 +53,13 @@ O Pass-in é um projeto de sistema de gerenciamento de eventos desenvolvido em J
  
 - **GET /attendees/{attendeeId}/badge:** Obtém o crachá de inscrição de um participante.
 ![5](https://github.com/matheus3pires/Pass-In_NLW/assets/87993331/fc36bd7d-5ff5-4a18-b442-07e9978ded24)
-  
+
 - **POST /attendees/{attendeeId}/check-in:** Realiza o check-in de um participante em um evento.
-![image](https://github.com/matheus3pires/Pass-In_NLW/assets/87993331/de8a102d-05ac-4aa2-8d9b-c1d03e3ee12d)
+![image](https://github.com/matheus3pires/Pass-In_NLW/assets/87993331/5a06118e-4662-4475-a410-6f8dfe37e754)
+
+
+
+
 
 ## Minhas Redes
 
